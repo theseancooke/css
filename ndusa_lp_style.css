@@ -1,12 +1,7 @@
 /* Service Mac Landing Page Styles */
 
-
-/* Extra Extra Large */
-@media (min-width: 1400px) { 
-
-  .p {
+.p {
     font-weight: bold;
-}
 }
 
 
