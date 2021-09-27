@@ -6,24 +6,24 @@
 
 
 /* Extra Large */
-@media (min-width: 1200px) and (max-width: 1399px) {  ... }
+@media (min-width: 1200px) and (max-width: 1399px) {  }
 
 
 /* Large */
-@media (min-width: 992px) and (max-width: 1199px) {  ... }
+@media (min-width: 992px) and (max-width: 1199px) {  }
 
 
 /* Medium */
-@media (min-width: 768px) and (max-width: 991px) {  ... }
+@media (min-width: 768px) and (max-width: 991px) {  }
 
 
 /* Small */
-@media (min-width: 576px) and (max-width: 767px) {  ... }
+@media (min-width: 576px) and (max-width: 767px) {  }
 
 
 /* Extra Small */
 @media (max-width: 575px) { 
 
   .logo {
-    grid-area: 1 / 2 / span 3 / span 15;
+    grid-area: 1 / 2 / span 3 / span 15 !important;
 }
