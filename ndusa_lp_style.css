@@ -24,7 +24,7 @@
 /* Extra Small */
 @media (max-width: 575px) { 
 
-  .logo {
+  .nd_logo {
     grid-area: 1 / 2 / span 3 / span 15 !important;
   }
 }
