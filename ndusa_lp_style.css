@@ -26,4 +26,5 @@
 
   .logo {
     grid-area: 1 / 2 / span 3 / span 15 !important;
+  }
 }
