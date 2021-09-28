@@ -87,6 +87,15 @@
         text-align: left !important;
     }
     
+    .product-card-description .label-container span {
+        font-size: 14px !important;
+        font-weight: 400 !important;
+    }
+    
+    .product-card-description .label-container span {
+        text-align: left !important;
+    }
+    
     .product-card-space {
         min-height: 15px !important;
         max-height: 15px !important;
