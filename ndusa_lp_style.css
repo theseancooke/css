@@ -78,5 +78,28 @@
     .product-card {
         grid-area: auto / 4 / auto / span 42 !important;
     }
+    
+    .product-card-title .label-container {
+        font-size: 18px !important;
+    }
+    
+    .product-card-space {
+        min-height: 15px !important;
+        max-height: 15px !important;
+    }
+    
+    .quick-facts {
+        min-height: 80px !important;
+    }
+    
+    .quick-facts .label-container {
+        line-height: 1.5 !important;
+        font-size: 16px !important;
+    }
+    
+    .Space-Container1 {
+        min-height: 50px !important;
+        max-height: 50px !important;
+    }
         
 }
