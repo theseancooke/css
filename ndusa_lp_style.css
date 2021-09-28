@@ -56,7 +56,7 @@
       font-size: 36px !important;
     }
     
-    .hero styled.outer-container {
+    .hero .styled.outer-container {
         background: url("/api/datasource/app:F1HL7SPMKLsohiMYWku-c:dataSources:6b146fde-e05d-4d2e-abef-0480682f658e/file/assets/servicemac_hero_img.jpg") left center / cover no-repeat scroll padding-box border-box rgba(0, 145, 255, 0) !important;
     }
     
