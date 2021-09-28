@@ -100,7 +100,7 @@
     }
     
     .product-card-button-mobile {
-    display: none !important;
+    display: block !important;
 }
     
     .product-card-space {
