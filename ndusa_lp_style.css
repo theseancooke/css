@@ -52,12 +52,13 @@
       grid-area: 1 / 1 / span 34 / span 48 !important;
     }
     
- /* .hero-heading {
-      grid-area: 4 ​/ 4 / auto / span 3 !important;
-    }*/
+.hero-heading {
+      grid-area: 3/ 5 / auto / span 35 !important;
+    }
     
   .hero-heading .label-container {
       font-size: 36px !important;
+      align-items: center !important;
     }
     
     
