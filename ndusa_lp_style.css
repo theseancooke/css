@@ -99,6 +99,10 @@
         text-align: left !important;
     }
     
+    .product-card-button-mobile {
+    display: none !important;
+}
+    
     .product-card-space {
         min-height: 15px !important;
         max-height: 15px !important;
