@@ -147,7 +147,7 @@
     }
     
     .final-cta-text {
-        grid-area: 7 / 5 / span 6 / span 40 !important;
+        grid-area: 7 / 5 / span 6 / span 39 !important;
     }
     
     .final-cta-text .label-container {
