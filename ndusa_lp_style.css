@@ -133,5 +133,14 @@
     .overlap-image {
         display: none !important;
     }
+    
+    .final-cta {
+        grid-area: 2 / 5 / span 5 / span 40 !important;
+    }
+    
+    .final-cta .label-container {
+        font-size: 21px !important;
+        text-align: center !important;
+    }
         
 }
