@@ -70,4 +70,13 @@
     .hero-callout {
         display: none !important;
     }
+    
+    .top-bar-cta .label-container {
+        font-size: 14px !importantl
+    }
+    
+    .product-card {
+        grid-area: auto / 4 / auto / span 42 !important;
+    }
+        
 }
