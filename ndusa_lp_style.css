@@ -4,6 +4,10 @@
     display: none !important;
 }
 
+.Footer_Container {
+    grid-area: 86 / 1 / span 19 / span 48 !important;
+}
+
 
 /* Extra Large */
 @media (min-width: 1200px) and (max-width: 1399px) { 
@@ -143,10 +147,15 @@
     }
     
     .final-cta-text {
+        grid-area: 7 / 5 / span 6 / span 40 !important;
     }
     
     .final-cta-text .label-container {
         font-size: 16px !important;
     }
+    
+    .Footer_Container {
+    grid-area: 97 / 1 / span 22 / span 48 !important;
+}
         
 }
