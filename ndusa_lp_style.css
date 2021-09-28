@@ -87,9 +87,9 @@
         text-align: left !important;
     }
     
-    .product-card-description {
+   /* .product-card-description {
         grid-area: 3 ​/ 6 / auto / span 3 !important;
-    }
+    }*/
     
     .product-card-description .label-container {
         font-size: 14px !important;
