@@ -1,43 +1,31 @@
 /* Service Mac Landing Page Styles */
 
-.p {
-    font-weight: bold;
+.product-card-button-mobile {
+    display: none !important;
 }
 
 
 /* Extra Large */
 @media (min-width: 1200px) and (max-width: 1399px) { 
 
-  .product-card-button-mobile {
-    display: none !important;
-}
 }
 
 
 /* Large */
 @media (min-width: 992px) and (max-width: 1199px) { 
 
-  .product-card-button-mobile {
-    display: none !important;
-}
 }
 
 
 /* Medium */
 @media (min-width: 768px) and (max-width: 991px) { 
 
-  .product-card-button-mobile {
-    display: none !important;
-}
 }
 
 
 /* Small */
 @media (min-width: 576px) and (max-width: 767px) { 
 
-  .product-card-button-mobile {
-    display: none !important;
-}
 }
 
 
