@@ -126,5 +126,9 @@
         min-height: 50px !important;
         max-height: 50px !important;
     }
+    
+    .small-spacer {
+        display: none !important;
+    }
         
 }
