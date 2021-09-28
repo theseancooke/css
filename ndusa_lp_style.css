@@ -65,4 +65,8 @@
         min-height: 420px !important;
         max-height: 420px !important;
     }
+    
+    .hero-callout {
+        display: none !important;
+    }
 }
