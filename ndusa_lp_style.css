@@ -140,15 +140,12 @@
     
     .final-cta-title .label-container {
         font-size: 21px !important;
-        text-align: center !important;
     }
     
     .final-cta-text {
-        grid-area: 2 / 5 / span 5 / span 40 !important;
     }
     
     .final-cta-text .label-container {
-        text-align: center !important;
     }
         
 }
