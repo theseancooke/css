@@ -49,6 +49,6 @@
   }
     
   .hero-content {
-      grid-area 1 / 1 / span 34 / span 48 !important;
+      grid-area: 1 / 1 / span 34 / span 48 !important;
     }
 }
