@@ -125,5 +125,9 @@
     .small-spacer {
         display: none !important;
     }
+    
+    .overlap-image {
+        display: none !important;
+    }
         
 }
