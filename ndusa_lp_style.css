@@ -41,10 +41,10 @@
         grid-area: auto / 4 / auto / span 12 !important;
     }
     .product-card-2 {
-        grid-area: auto / 18 / auto / span 12 !important;
+        grid-area: auto / 19 / auto / span 12 !important;
     }
     .product-card-3 {
-        grid-area: auto / 32 / auto / span 12 !important;
+        grid-area: auto / 33 / auto / span 12 !important;
     }
     .product-card-4 {
         grid-area: auto / 4 / auto / span 44 !important;
