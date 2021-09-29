@@ -17,6 +17,9 @@
     margin: auto;
 }
 
+.Footer_Wrapper {
+    grid-area: 86 ​/ 1 / span 22 / span 4 !important;
+}
 
 /* Extra Large */
 @media (min-width: 1200px) { 
