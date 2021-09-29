@@ -116,6 +116,10 @@
     .final-cta-text .label-container {
         font-size: 14px !important;
     }
+
+}
+
+@media  (max-width: 991px) { 
     
     .Mobile_Footer_Container {
         display: block !important;
@@ -124,7 +128,6 @@
     .Footer_Container {
         display: none !important;
     }
-
 }
 
 
@@ -259,14 +262,6 @@
     
     .gradient-feather {
         background: linear-gradient(0deg, rgba(0,31,63,1) 0%, rgba(255,255,255,0) 100%) !important;
-    }
-    
-    .Mobile_Footer_Container {
-        display: block !important;
-    }
-    
-    .Footer_Container {
-        display: none !important;
     }
         
 }
