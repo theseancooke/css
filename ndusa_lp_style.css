@@ -49,6 +49,15 @@
     .product-card-4 {
         grid-area: auto / 4 / auto / span 42 !important;
     }
+    
+    .hero-heading {
+      grid-area: 3/ 5 / auto / span 40 !important;
+    }
+    
+  .hero-heading .label-container {
+      font-size: 48px !important;
+      align-items: center !important;
+    }
 
 }
 
