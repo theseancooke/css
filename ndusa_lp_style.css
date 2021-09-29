@@ -12,6 +12,11 @@
     display: none;
 }
 
+.Footer_Container {
+    max-width: 1199px;
+    margin: auto;
+}
+
 
 /* Extra Large */
 @media (min-width: 1200px) { 
