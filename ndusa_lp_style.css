@@ -53,11 +53,11 @@
         max-height: 260px !important;
     }
     .product-card-4 {
-        grid-area: auto / 4 / 8 / span 42 !important;
+        grid-area: auto / 4 / 9 / span 42 !important;
     }
     
     .hero-heading {
-      grid-area: 3/ 5 / auto / span 40 !important;
+      grid-area: 3/ 5 / auto / span 42 !important;
     }
     
   .hero-heading .label-container {
@@ -72,6 +72,10 @@
     .Space-Container1 {
         min-height: 50px !important;
         max-height: 50px !important;
+    }
+    
+    .small-spacer {
+        display: none !important
     }
     
     .quick-facts .label-container {
