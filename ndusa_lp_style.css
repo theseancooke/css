@@ -126,7 +126,7 @@
         display: block !important;
     }
     
-    .Footer_Container {
+    .Footer_Container, .Footer_Wrapper {
         display: none !important;
     }
 }
