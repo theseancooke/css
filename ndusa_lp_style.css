@@ -37,7 +37,16 @@
 
 /* Medium */
 @media (min-width: 768px) and (max-width: 991px) { 
-    .product-card-tablet {
+    .product-card-1 {
+        grid-area: auto / 4 / auto / span 12 !important;
+    }
+    .product-card-2 {
+        grid-area: auto / 16 / auto / span 12 !important;
+    }
+    .product-card-3 {
+        grid-area: auto / 28 / auto / span 12 !important;
+    }
+    .product-card-4 {
         grid-area: auto / 4 / auto / span 12 !important;
     }
 
