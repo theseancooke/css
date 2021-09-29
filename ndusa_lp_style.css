@@ -39,12 +39,18 @@
 @media (min-width: 768px) and (max-width: 991px) { 
     .product-card-1 {
         grid-area: auto / 4 / auto / span 12 !important;
+        min-height: 240px !important;
+        max-height: 240px !important;
     }
     .product-card-2 {
         grid-area: auto / 19 / auto / span 12 !important;
+        min-height: 240px !important;
+        max-height: 240px !important;
     }
     .product-card-3 {
         grid-area: auto / 34 / auto / span 12 !important;
+        min-height: 240px !important;
+        max-height: 240px !important;
     }
     .product-card-4 {
         grid-area: auto / 4 / 8 / span 42 !important;
@@ -66,6 +72,23 @@
     .Space-Container1 {
         min-height: 50px !important;
         max-height: 50px !important;
+    }
+    
+    .quick-facts .label-container {
+        font-size: 16px !important;
+    }
+    
+    .product-card-space {
+        min-height: 20px !important;
+        max-height: 20px !important;
+    }
+    
+    .product-card-title .label-container {
+        font-size: 24px !important;
+    }
+    
+    .product-card-description .label-container {
+        font-size: 16px !important;
     }
 
 }
