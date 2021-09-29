@@ -52,6 +52,8 @@
     }
     .product-card-4 {
         grid-area: auto / 4 / 9 / span 42 !important;
+        min-height: 260px !important;
+        max-height: 260px !important;
     }
     
     .hero-heading {
