@@ -116,6 +116,14 @@
     .final-cta-text .label-container {
         font-size: 14px !important;
     }
+    
+    .Mobile_Footer_Container {
+        display: block !important;
+    }
+    
+    .Footer_Container {
+        display: none !important;
+    }
 
 }
 
