@@ -4,9 +4,7 @@
     display: none !important;
 }
 
-.Footer_Container {
-    grid-area: 86 / 1 / span 19 / span 48 !important;
-}
+
 
 .mobile-callout {
     display: none;
