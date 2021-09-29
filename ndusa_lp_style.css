@@ -47,7 +47,7 @@
         grid-area: auto / 34 / auto / span 12 !important;
     }
     .product-card-4 {
-        grid-area: auto / 4 / auto / span 44 !important;
+        grid-area: auto / 4 / auto / span 42 !important;
     }
 
 }
