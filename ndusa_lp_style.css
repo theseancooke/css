@@ -28,15 +28,8 @@
     }
 }
 
-
-/* Large */
-@media (min-width: 992px) and (max-width: 1199px) { 
-
-}
-
-
-/* Medium */
-@media (min-width: 768px) and (max-width: 991px) { 
+/* Medium & Large */
+@media (min-width: 768px) and (max-width: 1199px) { 
     .product-card-1 {
         grid-area: auto / 4 / auto / span 12 !important;
         min-height: 260px !important;
