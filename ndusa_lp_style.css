@@ -79,8 +79,8 @@
     
     .product-card {
         grid-area: auto / 4 / auto / span 42 !important;
-        min-height: 130px !important;
-        max-height: 130px !important;
+        min-height: 110px !important;
+        max-height: 110px !important;
         margin-bottom: 25px !important;
     }
     
@@ -101,7 +101,7 @@
     .product-card-description {
         min-height: 40px !important;
         max-height: 40px !important;
-        grid-area: span 2 / 4 / span 2 / span 38 !important;
+        grid-area: span 2 / 4 / span 2 / span 40 !important;
     }
     
     .product-card-description .label-container {
