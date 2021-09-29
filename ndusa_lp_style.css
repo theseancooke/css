@@ -58,6 +58,10 @@
       font-size: 48px !important;
       align-items: center !important;
     }
+    
+    .hero-callout {
+        grid-area: auto / 6 / auto / span 36 !important;
+    }
 
 }
 
