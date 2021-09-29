@@ -37,7 +37,7 @@
 
 /* Medium */
 @media (min-width: 768px) and (max-width: 991px) { 
-    .product-card {
+    .product-card-tablet {
         grid-area: auto / 4 / auto / span 12 !important;
     }
 
