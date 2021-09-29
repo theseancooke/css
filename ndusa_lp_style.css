@@ -96,6 +96,10 @@
     .product-card-description {
         grid-area: auto / 4 / auto / span 42 !important;
     }
+    
+    .overlap-image img {
+        height: 100% !important;
+    }
 
 }
 
