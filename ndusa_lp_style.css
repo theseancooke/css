@@ -12,6 +12,10 @@
     display: none;
 }
 
+.Mobile_Footer_Container {
+    display: none;
+}
+
 
 /* Extra Large */
 @media (min-width: 1200px) { 
