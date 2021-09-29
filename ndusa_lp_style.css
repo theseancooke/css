@@ -14,6 +14,14 @@
     .hero .styled.outer-container {
         background-position: 100% 35% !important;
     }
+    
+    .nd_logo {
+        grid-area: 1 / 2 / span 3 / span 4 !important;
+    }
+    
+    .nd_logo img {
+        padding-top: 5px !important;
+    }
 }
 
 
