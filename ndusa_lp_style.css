@@ -79,15 +79,15 @@
     
     .product-card {
         grid-area: auto / 4 / auto / span 42 !important;
-        min-height: 160px !important;
-        max-height: 160px !important;
+        min-height: 130px !important;
+        max-height: 130px !important;
         margin-bottom: 25px !important;
     }
     
     .product-card-title {
-        min-height: 60px !important;
-        max-height 60px !important;
-        grid-area: span 2 / 5 / span 2 / span 38 !important;
+        min-height: 40px !important;
+        max-height 40px !important;
+        grid-area: span 2 / 4 / span 2 / span 38 !important;
     }
     
     .product-card-title .label-container {
@@ -99,9 +99,9 @@
     }
     
     .product-card-description {
-        min-height: 60px !important;
-        max-height 60px !important;
-        grid-area: span 2 / 5 / span 2 / span 38 !important;
+        min-height: 40px !important;
+        max-height: 40px !important;
+        grid-area: span 2 / 4 / span 2 / span 38 !important;
     }
     
     .product-card-description .label-container {
@@ -118,8 +118,8 @@
 }
     
     .product-card-space {
-        min-height: 15px !important;
-        max-height: 15px !important;
+        min-height: 10px !important;
+        max-height: 10px !important;
     }
     
     .product-card-button {
@@ -167,5 +167,9 @@
     .Footer_Container {
     grid-area: 97 / 1 / span 22 / span 48 !important;
 }
+    
+    .gradient-feather {
+        background: linear-gradient(0deg, rgba(0,31,63,1) 0%, rgba(255,255,255,0) 100%) !important;
+    }
         
 }
